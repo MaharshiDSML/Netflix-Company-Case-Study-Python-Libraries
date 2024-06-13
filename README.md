@@ -7,18 +7,18 @@ The particular business case focuses on the Netflix show data and provides insig
 
 I have analyzed the given dataset to extract valuable insights and provide actionable recommendations. 
 
-The data is available in a single csv file :<br>
-● Show ID : The ID of the show<br>
-● Type: Identifier - A Movie or TV Show
-● Title: Title of the Movie / Tv Show
-● Director: Director of the Movie
-● Cast: Actors involved in the movie/show
-● Country: Country where the movie/show was produced
-● Date_added: Date it was added on Netflix
-● Release_year: Actual Release year of the movie/show
-● Rating: TV Rating of the movie/show
-● Duration: Total Duration - in minutes or number of seasons
-● Listed_in: Genre
+The data is available in a single csv file : <br>
+● Show ID : The ID of the show <br>
+● Type: Identifier - A Movie or TV Show <br>
+● Title: Title of the Movie / Tv Show <br>
+● Director: Director of the Movie <br>
+● Cast: Actors involved in the movie/show <br>
+● Country: Country where the movie/show was produced <br>
+● Date_added: Date it was added on Netflix <br>
+● Release_year: Actual Release year of the movie/show <br>
+● Rating: TV Rating of the movie/show <br>
+● Duration: Total Duration - in minutes or number of seasons <br>
+● Listed_in: Genre <br>
 ● Description: The summary description
 
 
