@@ -1,4 +1,4 @@
-# Netflix-Python-Libraries
+# Netflix : Data Exploration and Visualisation using Python Libraries
 This particular business case study focuses on the Netflix data and provides insightful information on 8807 shows. It analyzes the data and generates insights using Python libraries like numpy, pandas, matplotlib and seaborn to help Netflix decide which type of shows/movies to produce and how to grow the business.
 
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. 
