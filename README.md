@@ -7,8 +7,8 @@ The particular business case focuses on the Netflix show data and provides insig
 
 I have analyzed the given dataset to extract valuable insights and provide actionable recommendations. 
 
-The data is available in a single csv file :
-● Show ID : The ID of the show
+The data is available in a single csv file :<br>
+● Show ID : The ID of the show<br>
 ● Type: Identifier - A Movie or TV Show
 ● Title: Title of the Movie / Tv Show
 ● Director: Director of the Movie
